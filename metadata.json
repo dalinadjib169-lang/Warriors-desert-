@@ -1,0 +1,6 @@
+{
+  "name": "Desert Warriors",
+  "description": "Educational strategy game set in Algeria, where students answer AI-generated questions to build alliances, castles, and armies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
